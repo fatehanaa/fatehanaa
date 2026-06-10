@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Fateh 👋
 
-<!--
-**fatehanaa/fatehanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Information Technology with Honours** | 🏛️ **FTSM First Year** | 💻 **Code Weaver** | ☕ **Tea Consumer**
 
-Here are some ideas to get you started:
+Currently navigating my first year of the **Bachelor of Information Technology with Honours** program. I'm busy turning syntax errors into learning moments and figuring out whether I prefer frontend, backend, or just sleeping after a long lab session.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I'm Learning Right Now:
+*   **Languages:** Java
+*   **Web Basics:** Basic JavaScript
+*   **Tools:** Getting the hang of Git & GitHub
+
+### 🚀 My Goals for Year 1:
+*   [ ] Survive my second semester exams.
+*   [ ] Build my first personal project.
+*   [ ] Contribute to a group project without breaking the main branch.
+
+⚡ **Fun Fact:** My current coding style is 10% logic and 90% praying the compiler understands what I meant.
